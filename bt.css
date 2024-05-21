@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Briem+Hand:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alef:wght@400;700&family=Mr+Dafoe&family=Pacifico&family=Yesteryear&display=swap');
+
+
+
+
+
+footer {
+
+    
+    background-color: #d9e0e7;
+    padding: 20px 0;
+    font-size: 14px;
+    color: black;
+    height: 110px;
+}
+
+.font {
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+}
+
+.fab {
+    color: rgb(41, 39, 42);
+    margin: 0 10px;
+}
+
+div.h1 {
+    margin-left: 100px;
+
+    font-weight: 700;
+    font-weight: 400;
+    text-shadow: 0cqi;
+    text-align: center;
+    display: flex; /* השתמש בפלקס על מנת ליצור את המיקום המרכזי */
+    justify-content: center; /* ממורכז את התוכן באמצעות כיוון הרוחב */
+    align-items: center; /* ממורכז את התוכן באמצעות כיוון הגובה */
+    height: 20px;; 
+
+}
+img{
+    max-width: 500px;
+    height: 500px;
+    align-items: center;
+    justify-content: center ;
+    display: flex;
+    border: rgb(202, 175, 196); מסגרת בצבע אדום
+    border-radius: 5px; /* פינות מעוגלות */
+    max-height: 300px; /* גובה מקסימלי */
+    width: auto; /* רוחב אוטומטי */
+    margin: 0 auto; /* מירוץ אוטומטי */
+    
+}
+
+  
+.hhh{
+    text-align: center;
+    font-style: italic;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+h1{
+    font-style: italic;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+/* עיצוב כפתורי האקורדיון */
+.my-accordion-button {
+    background-color: #ff99cc; /* רקע וורוד */
+    color: #ffffff; /* צבע טקסט לבן */
+}
+
+/* עיצוב גופי האקורדיון */
+.my-accordion-body {
+    background-color: #ffe6ff; /* רקע וורוד בהיר */
+    color: #333333; /* צבע טקסט שחור */
+}
